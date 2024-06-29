@@ -1,8 +1,8 @@
 <h1 align="center">SUITE LANDING PAGE</h1>
 
 <div align="center">
- <a href="">View Project |</a>
- <a href="">View Code</a>
+    <a href="https://ivandefender.github.io/Suite-landing-page/">View Project |</a>
+    <a href="https://github.com/Ivandefender/Suite-landing-page">View Code</a>
 </div>
 
 <p align="center">
